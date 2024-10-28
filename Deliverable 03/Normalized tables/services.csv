@@ -1,0 +1,9 @@
+services_id,has_online_delivery,is_delivering_now,has_table_booking
+351,0,0,0
+392,0,0,1
+314,0,1,0
+371,0,1,1
+360,1,0,0
+320,1,0,1
+382,1,1,0
+386,1,1,1
